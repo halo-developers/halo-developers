@@ -7,8 +7,6 @@
 
 - 👯 I’m looking to collaborate on **Web Ecosystem**
 
-- 🤝 I’m looking for help with **React**
-
 - 👨‍💻 All of my projects are available at [linktr.ee/halodevelopers](https://linktr.ee/halodevelopers)
 
 - 📝 I regularly write articles on [halodevelopers/](https://halodevelopers.substack.com/)
