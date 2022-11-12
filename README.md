@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Halo Developers**
 
-- 👨‍💻 All of my projects are available at [halodevelopers](https://linktr.ee/halodevelopers)
+- 👨‍💻 All of my projects are available at [halodevelopers.com](https://www.halodevelopers.com/)
 
 - 📝 I regularly write articles on [halodevelopers](https://halodevelopers.substack.com/)
 
