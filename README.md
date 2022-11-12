@@ -3,19 +3,15 @@
 
 - 🔭 I’m currently working on **Halo Developers**
 
-- 🌱 I’m currently learning **UI/UX Engineer**
+- 👨‍💻 All of my projects are available at [halodevelopers](https://linktr.ee/halodevelopers)
 
-- 👯 I’m looking to collaborate on **Web Ecosystem**
-
-- 👨‍💻 All of my projects are available at [linktr.ee/halodevelopers](https://linktr.ee/halodevelopers)
-
-- 📝 I regularly write articles on [halodevelopers/](https://halodevelopers.substack.com/)
+- 📝 I regularly write articles on [halodevelopers](https://halodevelopers.substack.com/)
 
 - 💬 Ask me about **Web Ecosystem**
 
 - 📫 How to reach me **halodevelopers@gmail.com**
 
-- ⚡ Fun fact **dev tech education**
+- ⚡ Fun fact **Developer tech education in Indonesia**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
