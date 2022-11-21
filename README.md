@@ -5,7 +5,7 @@
 
 - 📝 I regularly write articles on [halodevelopers](https://halodevelopers.substack.com/)
 
-- 💬 Ask me about **Web Ecosystem**
+- 💬 Ask me about **Web and Mobile Ecosystem**
 
 - 📫 How to reach me **halodevelopers@gmail.com**
 
