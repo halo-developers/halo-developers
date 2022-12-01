@@ -1,17 +1,13 @@
-<h1 align="center">Hi 👋, I'm Halo Developers</h1>
-<h3 align="center">A passionate web developer from Indonesia</h3>
+<h2 align="center">👋 Halo Developers</h2>
+<h4 align="center">A passionate developer's tech education in Indonesia</h4>
 
-- 🔭 I’m currently working on **Halo Developers**
+- 🔭 I’m currently working on **Web Ecosystem**
 
 - 📝 I regularly write articles on [halodevelopers](https://halodevelopers.substack.com/)
 
-- 💬 Ask me about **Web and Mobile Ecosystem**
-
 - 📫 How to reach me **halodevelopers@gmail.com**
 
-- ⚡ Fun fact **Developer tech education in Indonesia**
-
-<h3 align="left">Connect with me:</h3>
+<h4 align="left">Connect with me:</h4>
 <p align="left">
 <a href="https://twitter.com/DevelopersHalo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="developershalo" height="30" width="40" /></a>
 </p>
